@@ -1,0 +1,209 @@
+
+# https://github.com/badmojr/1Hosts/issues/1914
+tracking.dpgmedia.cloud
+tracking-module.tracking.dpgmedia.cloud
+
+# https://github.com/badmojr/1Hosts/issues/1463
+ma.zoho.com
+
+# https://github.com/badmojr/1Hosts/issues/1462
+maillist-manage.com
+
+# https://github.com/badmojr/1Hosts/issues/1380
+analytics.danghongyun.com
+
+# https://github.com/badmojr/1Hosts/issues/1373
+franceoffrande.website
+
+# https://github.com/badmojr/1Hosts/issues/1357
+telutopiez.club
+www.telutopiez.club
+btc.telutopiez.club
+bitcoin.telutopiez.club
+
+# https://github.com/badmojr/1Hosts/issues/1351
+analytics.niefuend.org
+
+# https://github.com/badmojr/1Hosts/issues/1330
+rukalebi.ru
+
+# https://github.com/badmojr/1Hosts/issues/1322
+cheapstorys.com
+www.cheapstorys.com
+
+# https://github.com/badmojr/1Hosts/issues/1319
+collect.springer.com
+
+# https://github.com/badmojr/1Hosts/issues/1316
+zalpo.co.uk
+
+# https://github.com/badmojr/1Hosts/issues/1315
+nadns.ru
+xcoinsystem.su
+
+# https://github.com/badmojr/1Hosts/issues/1311
+maelcheck.com
+www.maelcheck.com
+
+# https://github.com/badmojr/1Hosts/issues/1301
+azwertag.ru
+
+# https://github.com/badmojr/1Hosts/issues/1299
+4uyiopkijhuygghjghjgfty.page.link
+
+# https://github.com/badmojr/1Hosts/issues/1296
+lancy.cloud
+www.lancy.cloud
+gnftohstpg.lancy.cloud
+
+# https://github.com/badmojr/1Hosts/issues/1295
+bestwayswap.club
+www.bestwayswap.club
+wedzumqubv.bestwayswap.club
+
+# https://github.com/badmojr/1Hosts/issues/1293
+tracking.bda.rtbf.be
+tracking.club.be
+tracking.copernica.net
+pixel.wetracked.io
+tracking.rosettastone.com
+tracking.message-business.com
+tracking-t1.genial.ly
+mail-tracking.phrasee.co
+
+# https://github.com/badmojr/1Hosts/issues/1290
+tracker.prd.bda.rtbf.be
+
+# https://github.com/badmojr/1Hosts/issues/1289
+analytics.lewebconcret.ch
+
+# https://github.com/badmojr/1Hosts/issues/1211
+totalav.com
+www.totalav.com
+
+# https://github.com/badmojr/1Hosts/issues/966
+hello.myfonts.net
+
+# https://github.com/badmojr/1Hosts/issues/1285
+admanager.conunity.io
+
+# https://github.com/badmojr/1Hosts/issues/1262
+rosetta.prod.ps.welt.de
+https://github.com/ph00lt0/blocklist/blob/master/rpz-blocklist.txt
+
+# https://github.com/badmojr/1Hosts/issues/1255
+diagnostic.degiro.nl
+
+# https://github.com/badmojr/1Hosts/issues/1249
+collector.seranking.com
+https://github.com/soteria-nou/domain-list/blob/master/analytics.txt
+
+# https://github.com/badmojr/1Hosts/issues/1247
+cmpum.com
+www.cmpum.com
+
+# https://github.com/badmojr/1Hosts/issues/1242
+ast.welt.de
+
+# https://github.com/badmojr/1Hosts/issues/1231
+ssl.1.damoh.welt.de
+ssl.2.damoh.welt.de
+ssl.3.damoh.welt.de
+
+# https://github.com/badmojr/1Hosts/issues/992
+radar.game
+
+# https://github.com/badmojr/1Hosts/issues/852
+slb-apisnd-in.heytapmobile.com
+obus-dc20123-in.heytapmobile.com
+httpdns-ocloud.heytapmobile.com
+
+# https://github.com/badmojr/1Hosts/issues/759
+overwatch.ingest.gdp.blizzard.com
+
+# Missing TikTok Log/Fingerprinting
+frontier-va.tiktokv.com
+mon15-normal-useast1a.tiktokv.com
+mon16-normal-useast1a.tiktokv.com
+pitaya-task-va.tiktokv.com
+
+# https://github.com/badmojr/1Hosts/issues/718
+auditrecording-pa.googleapis.com
+
+# https://github.com/badmojr/1Hosts/issues/711
+feedbackws.icloud.com.cn
+
+# https://github.com/badmojr/1Hosts/issues/712
+dnkeeper.platform.dbankcloud.cn
+dnkeeper.platform.hwcloudtest.cn
+dnkeeper.dbankcloud.com
+
+# https://github.com/badmojr/1Hosts/issues/715
+pinterest.cdn-gw-dv.net
+
+# https://github.com/badmojr/1Hosts/issues/597
+parse.viapplogs.net
+
+# https://github.com/badmojr/1Hosts/issues/622
+events.mapbox.com
+
+# https://github.com/badmojr/1Hosts/issues/590
+sp.mail.notion.so
+
+# https://github.com/badmojr/1Hosts/issues/547
+us-api.mcsvc.samsung.com
+us.mcsvc.samsung.com
+us-rd.mcsvc.samsung.com
+kr-cdn-gpp.mcsvc.samsung.com
+us-cdn-gpp.mcsvc.samsung.com
+kr-api.mcsvc.samsung.com
+cn-api.mcsvc.samsung.com.cn
+
+# https://github.com/badmojr/1Hosts/issues/546
+mssdk16-normal-useast1a.tiktokv.com
+mssdk-va.tiktok.com
+
+# https://github.com/badmojr/1Hosts/issues/543
+china-gld.push.samsungosp.com.cn
+
+# https://github.com/badmojr/1Hosts/issues/498
+moa-upload-eu.allawnos.com
+
+# reported by user as win 11 telemetry.
+functional.events.data.microsoft.com
+
+# https://github.com/badmojr/1Hosts/issues/260
+datacollector-dre.dt.dbankcloud.cn
+datacollector-drcn.dt.dbankcloud.cn
+
+# Kiwi Browser
+# https://github.com/Tobi823/ffupdater/issues/35
+kiwibrowser.com
+kiwibrowser.org
+kiwisearchservices.com
+kiwisearchservices.net
+logos.kiwibrowser.com
+popular.kiwibrowser.com
+search.kiwibrowser.com
+search.kiwibrowser.org
+search1.kiwibrowser.org
+search2.kiwibrowser.org
+search3.kiwibrowser.org
+settings.kiwibrowser.com
+tiles.kiwibrowser.org
+update.kiwibrowser.com
+updateapis.kiwibrowser.com
+www.kiwisearchservices.com
+www.kiwisearchservices.net
+ysearch.kiwibrowser.org
+bsearch.kiwibrowser.org
+kiwi.fastsearch.me
+autocomplete.kiwibrowser.org
+find.kiwi
+
+# SHAREit
+divide.wshareit.com
+vs.wshareit.com
+
+# https://github.com/badmojr/1Hosts/issues/407
+firebaseinstallations.googleapis.com

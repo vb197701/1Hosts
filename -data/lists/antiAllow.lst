@@ -1,0 +1,24 @@
+# Problematic, breakage-prone ads & tracker domains not up for removal on Pro and Xtra.
+# .........................................
+
+# https://github.com/badmojr/1Hosts/issues/953
+geomobileservices-pa.googleapis.com
+
+# https://github.com/badmojr/1Hosts/issues/1844
+t.paypal.com
+
+# https://github.com/badmojr/1Hosts/issues/536
+# https://github.com/badmojr/1Hosts/issues/562
+# https://github.com/badmojr/1Hosts/issues/908
+# https://github.com/badmojr/1Hosts/issues/1178
+xp.apple.com
+
+# Facebook
+graph.facebook.com
+connect.facebook.net
+pixel.facebook.com
+staticxx.facebook.com
+b-graph.facebook.com
+mqtt-p4.facebook.com
+z-p3-api.facebook.com
+z-p3-sonar.fdar1-1.fna.fbcdn.net

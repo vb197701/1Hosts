@@ -1,0 +1,64 @@
+name: Submit here
+description: Submit requests for domain additions or removals to our blocklists
+labels: []
+assignees: []
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        <div align="center">
+          <h2>Submit Form</h2>
+          <div align="center">Get your issue resolved quickly! Fill in the form accurately.</div>
+        </div>
+
+  - type: checkboxes
+    id: lists_in_use
+    attributes:
+      label: "🧹 Lists"
+      description: "Select the blocklist(s) you are using. Check all that apply."
+      options:
+        - label: Lite
+        - label: Pro
+        - label: Xtra
+
+  - type: input
+    id: client
+    attributes:
+      label: "🛡️ Client"
+      description: "Specify the adblock client being used (e.g., NextDNS, Pi-hole, AdGuard Home)."
+      placeholder: "nextDNS"
+    validations:
+      required: true
+
+  - type: textarea
+    id: domains
+    attributes:
+      label: "🌐 Domains"
+      description: "Enter one domain per line (include subdomains if needed)"
+      placeholder: |
+        example.com
+        ads.example.org
+        tracker.example.net
+      render: yaml
+    validations:
+      required: true
+
+  - type: textarea
+    id: details
+    attributes:
+      label: "📝 Additional Details"
+      description: |
+        Explain why these domains should be added or removed.
+        Include evidence such as screenshots or links, if possible.
+    validations:
+      required: true
+
+  - type: markdown
+    attributes:
+      value: |
+        <div align="center" style="margin-top:30px">
+          <hr style="width:10%;margin:10px auto;opacity:0.3">
+          <h2>Thank you for supporting 1Hosts.</h2>
+          <sub>It’s people like you who make these lists great! ❤️</sub>
+        </div>
