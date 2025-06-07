@@ -1,4 +1,7 @@
 
+# https://github.com/badmojr/1Hosts/issues/2144
+opentofu.org
+
 # https://github.com/badmojr/1Hosts/issues/2140
 www.adsbhub.org
 adsbhub.org
