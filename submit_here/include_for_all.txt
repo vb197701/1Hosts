@@ -1,6 +1,0 @@
-
-# https://github.com/badmojr/1Hosts/issues/2150
-walkme.k1.datto.com
-
-# https://github.com/badmojr/1Hosts/issues/2149
-piwik.micolombiadigital.gov.co
