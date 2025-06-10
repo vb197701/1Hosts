@@ -50,8 +50,7 @@ body:
       label: "📝 Additional Details"
       description: |
         Explain why these domains should be added or removed.
-        
-        Include supporting evidence, such as screenshots or a direct link to the webpage/app where the issue first appears.
+        Include supporting evidence, such as screenshots or a direct link to the webpage/app.
     validations:
       required: true
 
