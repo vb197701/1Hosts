@@ -1,4 +1,7 @@
 
+# https://github.com/badmojr/1Hosts/issues/2163
+report.cdnpure.com
+
 # https://github.com/badmojr/1Hosts/issues/2150
 walkme.k1.datto.com
 
