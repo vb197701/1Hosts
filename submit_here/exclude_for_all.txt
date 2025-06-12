@@ -1,0 +1,22 @@
+
+# https://github.com/badmojr/1Hosts/issues/2164
+requestcatcher.com
+
+# https://github.com/badmojr/1Hosts/issues/2162
+www.vornado.com
+
+# https://github.com/badmojr/1Hosts/issues/2161
+traininng.com
+
+# https://github.com/badmojr/1Hosts/issues/2159
+automodul.cz
+certi.cz
+dnes.cz
+imap.xtra.co.nz
+motorkari.cz
+mujweb.cz
+mx.xtra.co.nz
+pizzamodena.cz
+predskolaci.cz
+www.mfdnes.cz
+xtra.co.nz
