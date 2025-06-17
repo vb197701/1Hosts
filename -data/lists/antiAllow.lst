@@ -1,6 +1,13 @@
 # Problematic, breakage-prone ads & tracker domains not up for removal on Pro and Xtra.
 # .........................................
 
+
+# https://github.com/badmojr/1Hosts/issues/1941
+# https://github.com/badmojr/1Hosts/issues/560
+api-glb-usw2c.smoot.apple.com
+api-glb-aeun1a.smoot.apple.com
+smoot.apple.com
+
 # https://github.com/badmojr/1Hosts/issues/953
 geomobileservices-pa.googleapis.com
 
