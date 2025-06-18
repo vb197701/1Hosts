@@ -1,0 +1,33 @@
+# https://github.com/badmojr/1Hosts/issues/2205
+epiccardgame-android.fungames-forfree.com
+
+# https://github.com/badmojr/1Hosts/issues/2197
+upfion.com
+flash.getpczone.com
+
+# https://github.com/badmojr/1Hosts/issues/2179
+gallery-vsassets-io.bx-0007.bx-msedge.net
+
+# https://github.com/badmojr/1Hosts/issues/2178
+dnull.xyz
+royalegame.win
+
+# https://github.com/badmojr/1Hosts/issues/2177
+animalpetitions.org
+
+# https://github.com/badmojr/1Hosts/issues/2176
+workingfamilies.org
+
+# https://github.com/badmojr/1Hosts/issues/2175
+natanchiodi.fr
+
+# https://github.com/badmojr/1Hosts/issues/2174
+plexus.techlore.tech
+xhamster43.desi
+uotech.in
+www.uotech.in.cdn.hstgr.net
+
+# https://github.com/badmojr/1Hosts/issues/2173
+tryhackme.tech
+vinegarhq.org
+dsm.city
