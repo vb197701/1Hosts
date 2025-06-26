@@ -1,4 +1,35 @@
 
+# https://github.com/badmojr/1Hosts/issues/2234
+fragdenstaat.de
+
+# https://github.com/badmojr/1Hosts/issues/2233
+superlogica.com
+superlogica.net
+
+# https://github.com/badmojr/1Hosts/issues/2231
+registry.ollama.ai
+
+# https://github.com/badmojr/1Hosts/issues/2230
+migaku.com
+
+# https://github.com/badmojr/1Hosts/issues/2229
+dontpad.com
+
+# https://github.com/badmojr/1Hosts/issues/2228
+core.morgenlevering.no
+morgenlevering-core.mlev-pro-1.eks.schibsted.io
+
+# https://github.com/badmojr/1Hosts/issues/2227
+detectportal.brave-http-only.com
+
+# https://github.com/badmojr/1Hosts/issues/2226
+dropoverapp.com
+a.dropoverapp.com
+raycast.com
+www.raycast.com
+backend.raycast.com
+releases.raycast.com
+
 # https://github.com/badmojr/1Hosts/issues/2225
 edge.microsoft.com
 edge-microsoft-com.ax-0002.ax-msedge.net
